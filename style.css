@@ -80,7 +80,7 @@ header{
     justify-content: center;
     flex-flow: column;
     text-align: center;
-    background-image: url("./images/bacxkimg.jpg");
+    background-image: url("bacxkimg.jpg");
     
 }
 header .user img{
